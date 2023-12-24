@@ -57,4 +57,4 @@ If you have any questions or would like to discuss this project further, please 
   - Email: Kennethcxcv@gmail.com
 
 ## License
-This project is licensed under the **MIT License **.
+This project is licensed under the **MIT License**.
